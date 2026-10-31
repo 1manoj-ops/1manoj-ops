@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Manoj 👋
 
-<!--
-**1manoj-ops/1manoj-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Exploring Technology, Building Solutions, and Learning Along the Way.
 
-Here are some ideas to get you started:
+I'm interested in understanding how technology works, solving practical problems, and exploring ways to make everyday workflows more efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+* Interested in Azure, DevOps, Cloud Technologies, and IT Automation.
+* Exploring Power BI and data-driven solutions.
+* Learning about AI and its practical applications.
+* Currently exploring the field of **Forward Deployed Engineering (FDE)**.
+* Believe in continuous learning and building through hands-on experience.
+
+### Areas of Interest
+
+* Azure & Cloud Technologies
+* DevOps & Automation
+* Power BI & Data Analytics
+* Artificial Intelligence
+* Forward Deployed Engineering
+
+### Projects
+
+*Projects and practical work will be added here as I continue building my portfolio.*
+
+### Currently Learning
+
+* Azure DevOps
+* Cloud Engineering
+* AI-powered solutions
+* Forward Deployed Engineering concepts
+
+---
+
+*Learning continuously. Building thoughtfully. Improving consistently.*
